@@ -2,5 +2,5 @@
 
 Home page and privacy policy for a private, single-user rclone connection to the owner's own Google Drive.
 
-- Home page: https://notajbrant.github.io/rclone-drive/
-- Privacy policy: https://notajbrant.github.io/rclone-drive/privacy.html
+- Home page: https://cutthroatcarnivore.github.io/rclone-drive/
+- Privacy policy: https://cutthroatcarnivore.github.io/rclone-drive/privacy.html
